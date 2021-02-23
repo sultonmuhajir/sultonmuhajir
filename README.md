@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sultonmuhajir
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Data Structures & Algorithms.
+- 🌱 I’m currently learning Programming Algorithms.
 - 💞️ I’m looking to collaborate with anyone if you please.
 - 📫 How to reach me? [Twitter](https://twitter.com/sulton_mhjr)
 <!---
